@@ -1,0 +1,4 @@
+font: Segoe Print
+size: 52
+italics and bold
+
