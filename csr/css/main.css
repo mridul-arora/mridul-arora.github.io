@@ -291,9 +291,13 @@ body.is-preload #banner:after {
     margin: 0 auto;
 }
 #acmlogo{
-  width:75%;
+  width:44%;
     margin: 0 auto;
-
+}
+#csrlogo{
+    width:30%;
+    margin: 0 auto;
+    margin-bottom: -7em;
 }
 
 .image-re {
