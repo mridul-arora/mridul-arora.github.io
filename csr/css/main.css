@@ -292,6 +292,8 @@ body.is-preload #banner:after {
 }
 #acmlogo{
   width:75%;
+    margin: 0 auto;
+
 }
 
 .image-re {
@@ -316,6 +318,7 @@ body.is-preload #banner:after {
 }
 #pa{
     font-size: 15px;
+    margin-top: 30px;
 }
 
 .bg-light h2::after {
@@ -337,4 +340,10 @@ body.is-preload #banner:after {
   background: #0182ac;
   bottom: 0;
   left: calc(50% - 20px);
+}
+#l{
+    float:left;
+}
+#r{
+    float: right;
 }
